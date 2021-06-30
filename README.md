@@ -1,7 +1,8 @@
-<img src="https://github.com/SquishyOctopus/SquishyOctopus/blob/master/assets/banner.png?raw=true" />
+<img src="https://github.com/FlailingOctopus/FlailingOctopus/blob/master/assets/banner.png?raw=true" />
 
 ### Welcome to my GitHub 👋🏻
-- 📚 I am currently learning Dart, Flutter, and advanced Kotlin
-- 🚪 I am an introvent
-- 🧠 I code by night
-- 🏫 I do school work by day
+- 📚 I am currently...
+  - Experimenting with NextJS & React
+  - Learning Kotlin
+- 🚪 I'm an introvent (I don't like being outdoors often)
+- 🧠 I code by day & night
