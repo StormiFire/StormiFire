@@ -1,4 +1,4 @@
-<img src="https://github.com/FlailingOctopus/FlailingOctopus/blob/master/assets/banner.png?raw=true" />
+<img src="https://github.com/FlailingOctopus/FlailingOctopus/blob/master/assets/big-banner.png?raw=true" />
 
 ### Welcome to my GitHub 👋🏻
 - 📚 I am currently...
