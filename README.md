@@ -4,5 +4,5 @@
 - 📚 I am currently...
   - Experimenting with NextJS & React
   - Learning Kotlin
-- 🚪 I'm an introvent (I don't like being outdoors often)
+- 🚪 I'm an introvert (I don't like being outdoors often)
 - 🧠 I code by day & night
